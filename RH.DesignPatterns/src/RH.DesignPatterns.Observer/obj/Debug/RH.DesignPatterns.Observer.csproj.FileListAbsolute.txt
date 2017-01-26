@@ -1,0 +1,12 @@
+C:\Users\evertonalmeida\Desktop\DesignPatterns\src\RH.DesignPatterns\RH.DesignPatterns.Observer\bin\Debug\RH.DesignPatterns.Observer.exe.config
+C:\Users\evertonalmeida\Desktop\DesignPatterns\src\RH.DesignPatterns\RH.DesignPatterns.Observer\bin\Debug\RH.DesignPatterns.Observer.exe
+C:\Users\evertonalmeida\Desktop\DesignPatterns\src\RH.DesignPatterns\RH.DesignPatterns.Observer\bin\Debug\RH.DesignPatterns.Observer.pdb
+C:\Users\evertonalmeida\Desktop\DesignPatterns\src\RH.DesignPatterns\RH.DesignPatterns.Observer\obj\Debug\RH.DesignPatterns.Observer.exe
+C:\Users\evertonalmeida\Desktop\DesignPatterns\src\RH.DesignPatterns\RH.DesignPatterns.Observer\obj\Debug\RH.DesignPatterns.Observer.pdb
+C:\Users\evertonalmeida\Desktop\DesignPatterns\src\RH.DesignPatterns\RH.DesignPatterns.Observer\obj\Debug\RH.DesignPatterns.Observer.csprojResolveAssemblyReference.cache
+C:\Users\evertonalmeida\Desktop\DesignPatterns\src\RH.DesignPatterns\src\RH.DesignPatterns.Observer\bin\Debug\RH.DesignPatterns.Observer.exe.config
+C:\Users\evertonalmeida\Desktop\DesignPatterns\src\RH.DesignPatterns\src\RH.DesignPatterns.Observer\obj\Debug\RH.DesignPatterns.Observer.exe
+C:\Users\evertonalmeida\Desktop\DesignPatterns\src\RH.DesignPatterns\src\RH.DesignPatterns.Observer\obj\Debug\RH.DesignPatterns.Observer.pdb
+C:\Users\evertonalmeida\Desktop\DesignPatterns\src\RH.DesignPatterns\src\RH.DesignPatterns.Observer\bin\Debug\RH.DesignPatterns.Observer.exe
+C:\Users\evertonalmeida\Desktop\DesignPatterns\src\RH.DesignPatterns\src\RH.DesignPatterns.Observer\bin\Debug\RH.DesignPatterns.Observer.pdb
+C:\Users\evertonalmeida\Desktop\DesignPatterns\src\RH.DesignPatterns\src\RH.DesignPatterns.Observer\obj\Debug\RH.DesignPatterns.Observer.csprojResolveAssemblyReference.cache
