@@ -30,14 +30,8 @@ namespace RH.DesignPatterns.Factory
                     idadeDigitada = Console.ReadLine();
                 }
                 idade = int.Parse(idadeDigitada);
-                if (idade > 60)
-                {
-                    tipoPessoa = new Idoso();
-                }
-                else
-                {
-                    tipoPessoa = new Jovem();
-                }
+                var pessoaFactory = new FactoryPessoa();
+                tipoPessoa = pessoaFactory.CriarPessoa(idade);
                 Console.WriteLine("\nSr. " + nome + ", " + tipoPessoa.mensagemTipoPessoa());
                 Console.WriteLine("\n---------------------------------------\n");
             } while (Console.ReadKey().Key != ConsoleKey.Escape);
