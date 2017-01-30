@@ -1,5 +1,5 @@
-﻿using RH.DesignPatterns.Factory.Entities;
-using System;
+﻿using System;
+using RH.DesignPatterns.Factory.Factory;
 
 namespace RH.DesignPatterns.Factory
 {
@@ -9,11 +9,9 @@ namespace RH.DesignPatterns.Factory
         {
             do
             {
-                var idade = 0;
                 var idadeDigitada = "";
                 var nome = "";
                 int msgErro;
-                Pessoa tipoPessoa;
                 Console.WriteLine("Qual e o seu nome?");
                 while (nome == "")
                 {
@@ -23,16 +21,16 @@ namespace RH.DesignPatterns.Factory
                 while (idadeDigitada == "")
                 {
                     idadeDigitada = Console.ReadLine();
-                };
-                while (!int.TryParse(idadeDigitada, out msgErro))
+                }
+                while (!int.TryParse(idadeDigitada, out msgErro) || idadeDigitada == null)
                 {
                     Console.WriteLine("\nIdade invalida, digite uma idade valida:");
                     idadeDigitada = Console.ReadLine();
                 }
-                idade = int.Parse(idadeDigitada);
-                var pessoaFactory = new FactoryPessoa();
-                tipoPessoa = pessoaFactory.CriarPessoa(idade);
-                Console.WriteLine("\nSr. " + nome + ", " + tipoPessoa.mensagemTipoPessoa());
+                var idade = int.Parse(idadeDigitada);
+                var pessoaFactory = new FactoryPessoa(nome, idade);
+                var tipoPessoa = pessoaFactory.CriarPessoa();
+                Console.WriteLine("\nSr. " + tipoPessoa.GetNome() + ", " + tipoPessoa.MensagemTipoPessoa());
                 Console.WriteLine("\n---------------------------------------\n");
             } while (Console.ReadKey().Key != ConsoleKey.Escape);
         }

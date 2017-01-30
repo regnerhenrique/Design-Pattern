@@ -1,0 +1,6 @@
+C:\Users\evertonalmeida\Desktop\RH.DesignPatterns\RH.DesignPatterns.Factory\bin\Debug\RH.DesignPatterns.Factory.exe.config
+C:\Users\evertonalmeida\Desktop\RH.DesignPatterns\RH.DesignPatterns.Factory\bin\Debug\RH.DesignPatterns.Factory.exe
+C:\Users\evertonalmeida\Desktop\RH.DesignPatterns\RH.DesignPatterns.Factory\bin\Debug\RH.DesignPatterns.Factory.pdb
+C:\Users\evertonalmeida\Desktop\RH.DesignPatterns\RH.DesignPatterns.Factory\obj\Debug\RH.DesignPatterns.Factory.exe
+C:\Users\evertonalmeida\Desktop\RH.DesignPatterns\RH.DesignPatterns.Factory\obj\Debug\RH.DesignPatterns.Factory.pdb
+C:\Users\evertonalmeida\Desktop\RH.DesignPatterns\RH.DesignPatterns.Factory\obj\Debug\RH.DesignPatterns.Factory.csprojResolveAssemblyReference.cache

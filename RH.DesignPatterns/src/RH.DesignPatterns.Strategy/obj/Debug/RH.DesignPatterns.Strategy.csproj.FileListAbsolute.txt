@@ -15,6 +15,3 @@ C:\Users\evertonalmeida\Desktop\DesignPatterns\src\RH.DesignPatterns\RH.DesignPa
 C:\Users\evertonalmeida\Desktop\DesignPatterns\src\RH.DesignPatterns\src\RH.DesignPatterns.Strategy\bin\Debug\RH.DesignPatterns.exe.config
 C:\Users\evertonalmeida\Desktop\DesignPatterns\src\RH.DesignPatterns\src\RH.DesignPatterns.Strategy\obj\Debug\RH.DesignPatterns.exe
 C:\Users\evertonalmeida\Desktop\DesignPatterns\src\RH.DesignPatterns\src\RH.DesignPatterns.Strategy\obj\Debug\RH.DesignPatterns.pdb
-C:\Users\evertonalmeida\Desktop\RH.DesignPatterns\src\RH.DesignPatterns.Strategy\bin\Debug\RH.DesignPatterns.exe.config
-C:\Users\evertonalmeida\Desktop\RH.DesignPatterns\src\RH.DesignPatterns.Strategy\obj\Debug\RH.DesignPatterns.exe
-C:\Users\evertonalmeida\Desktop\RH.DesignPatterns\src\RH.DesignPatterns.Strategy\obj\Debug\RH.DesignPatterns.pdb
